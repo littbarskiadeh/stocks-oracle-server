@@ -7,8 +7,6 @@ fetches stock data from an external stocks api and feeds as input to Stocks cont
 API endpoint - https://www.alphavantage.co/query?function=GLOBAL_QUOTE&symbol=IBM&apikey=demo
 
 
-## To run....work in progress
-
 In the project directory, you can run:
 
 ### `yarn start`
